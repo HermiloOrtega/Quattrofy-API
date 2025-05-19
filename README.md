@@ -24,16 +24,19 @@ Some of the most commonly used and critical endpoints include:
 ---
 
 ## ⚙️ Tech Stack  
-| Technology | Description |
-|------------|-------------|
-| ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge) | API developed with .NET Core |
-| ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) | Framework for building REST APIs |
-| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge) | Primary data store for all Quattrofy data |
-| ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white&style=for-the-badge) | Automation engine connected via API |
-| ![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-000000?logo=microsoft&logoColor=white&style=for-the-badge) | Conversational agent integration |
-| ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?logo=api&logoColor=white&style=for-the-badge) | Exposed RESTful endpoints for business logic |
-| ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge) | Response and request data format |
-| ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge) | Used for secure token-based authentication |
+| **Category**             | **Tools & Technologies** |
+|--------------------------|--------------------------|
+| **Backend**              | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+| **Data Format**          | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) |
+| **Framework**            | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white) |
+| **Database**             | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
+| **Cloud & Hosting**      | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Azure App Services](https://img.shields.io/badge/Azure_App_Services-0078D4?style=flat&logo=windows&logoColor=white) ![Slot Deployment](https://img.shields.io/badge/Azure_Slot_Deployment-0078D4?style=flat&logo=azuredevops&logoColor=white) |
+| **APIs & Integrations**  | ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat&logo=googlemaps&logoColor=white) ![Acumatica API](https://img.shields.io/badge/Acumatica%20API-2D9CDB?style=flat&logo=data&logoColor=white) ![DayForce API](https://img.shields.io/badge/DayForce%20API-1E90FF?style=flat&logo=data&logoColor=white) ![HCSS HeavyJob API](https://img.shields.io/badge/HCSS%20HeavyJob%20API-FFA500?style=flat&logo=api&logoColor=white) ![SiteDocs API](https://img.shields.io/badge/SiteDocs%20API-4CAF50?style=flat&logo=api&logoColor=white) |
+| **APIs Protocols**     | ![REST API](https://img.shields.io/badge/REST%20API-025669?style=flat&logo=api&logoColor=white) |
+| **Analytics & BI**       | ![Google Analytics](https://img.shields.io/badge/Analytics-e37400?logo=googleanalytics&logoColor=white&style=for-the-badge) |
+| **DevOps & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) |
+| **Project Management**   | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **Security & Identity**  | ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge) | Used for secure token-based authentication |
 
 ---
 
