@@ -11,6 +11,11 @@ It empowers automation, real-time querying, and task execution using tools like 
 
 ---
 
+### Flow
+![Screenshot](./assets/1.jpg)
+
+---
+
 ## ✨ Key Endpoints  
 Some of the most commonly used and critical endpoints include:
 
